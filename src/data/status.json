@@ -1,0 +1,33 @@
+{
+  "headline": "Travel Forecast For Tuesday",
+  "updatedAt": "1:54:12 PM",
+  "ticker": [
+    "We are currently experiencing elevated error rates across PDS instances and are investigating",
+    "No incidents reported",
+    "Dallas node degraded",
+    "Deploy window begins 03:00 UTC",
+    "Ashburn replication healthy"
+  ],
+  "nodes": [
+    {
+      "city": "Bluesky",
+      "icon": "🌧️",
+      "status": "DEGRADED"
+    },
+    {
+      "city": "Stream.place",
+      "icon": "⛅",
+      "status": "OPERATIONAL"
+    },
+    {
+      "city": "Blacksky",
+      "icon": "❄️",
+      "status": "PARTIAL OUTAGE"
+    },
+    {
+      "city": "Localhost",
+      "icon": "☀️",
+      "status": "NO DATA"
+    }
+  ]
+}
